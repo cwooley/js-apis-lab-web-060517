@@ -2,7 +2,6 @@
 
 //NO ES6 REMEMBER :-(
 
-// const token = '9cebe07750451075ce8f1ef4474b83ee7cbc7587'
 const api = 'https://api.github.com/'
 
 var myGists = function (data){
